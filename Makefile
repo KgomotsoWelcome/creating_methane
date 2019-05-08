@@ -22,3 +22,9 @@ run:
 run1:
 	java -cp bin molecule.RunSimulation 20 5
 
+run2:
+	java -cp bin molecule.RunSimulation 1000 250
+
+run3:
+	java -cp bin molecule.RunSimulation 1500 375
+
